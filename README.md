@@ -1,3 +1,3 @@
 # odin_recipes
-I am being told to make a website for that will contain cooking recipes.
+I am being told to make a website that contains cooking recipes.
 Hopefully, this turns out pretty well!
